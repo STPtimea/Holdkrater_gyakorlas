@@ -1,0 +1,18 @@
+h1{
+        color: blue;
+        font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+caption{
+        font-style: italic;
+}
+
+table, th, td {
+        background-color: rgb(173, 220, 231);
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+}
